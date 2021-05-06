@@ -15,6 +15,10 @@
     <sound-button audio="chicka-chicka">CHICKA CHICKA</sound-button>
 
     </div>
+
+    <div class="footer">
+      <a href="https://github.com/RockyKev/vue-soundboard-yello" target="_blank">Github</a>
+    </div>
   </div>
 </template>
 
