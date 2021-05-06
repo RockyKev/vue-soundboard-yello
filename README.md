@@ -1,4 +1,6 @@
-# vue-yello-soundboard
+# Vue Soundbound
+
+Oh it got weird.
 
 ## Project setup
 ```
