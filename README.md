@@ -22,5 +22,22 @@ npm run build
 npm run lint
 ```
 
+## Project Organization 
+
+```
+src\App.vue
+```
+
+Main entry. 
+
+
+```
+Src\components\SoundButton.vue
+```
+
+Contains a dope background button randomizer. 
+Plays audio. 
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
